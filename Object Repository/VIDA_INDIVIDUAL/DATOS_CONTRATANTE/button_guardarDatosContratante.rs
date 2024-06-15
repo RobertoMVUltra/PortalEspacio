@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_guardarDatosContratante</name>
+   <tag></tag>
+   <elementGuidId>24348a06-4c6a-4351-8407-7a07357f2071</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()=&quot;Guardar&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#guardar_boton_guardar > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0db22b23-5075-4021-ab8a-652457c05f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>5a43e4c9-9756-48ad-91df-35a7f0958185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>save Guardar </value>
+      <webElementGuid>0d99ae4c-da2f-4fe8-a64a-bddbc0f05018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;guardar_boton_guardar&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>6d572be8-e8f5-42eb-920d-bd77c1d34336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPACIO/GLOBALES/iframe</value>
+      <webElementGuid>d779c798-dfad-4183-8d9b-b11019dca628</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='guardar_boton_guardar']/span</value>
+      <webElementGuid>0807ef0b-6eb2-410d-870a-4f1c512b62d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intermediario:'])[1]/following::span[3]</value>
+      <webElementGuid>ff65a46e-f827-4c18-93f8-4a44fc01c02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span</value>
+      <webElementGuid>66a1de93-bc71-4268-b839-d5f1637b56be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'save Guardar ' or . = 'save Guardar ')]</value>
+      <webElementGuid>d3480478-11b3-4f69-9a0f-e1fe16332927</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_PagoSemestral</name>
+   <tag></tag>
+   <elementGuidId>8276fb3b-029d-4792-b8dc-ad9a14d82477</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content_wrapper&quot;]/div/div[2]/form-sb-wizard/div/div[2]/sb-wizard-step[2]/div/section/app-cotizacion/div/app-sb-tabla-coberturas/tabset/div/tab/div[2]/div[1]/sb-tabla-opciones-pago/ngx-datatable/div/datatable-body/datatable-selection/datatable-scroller/datatable-row-wrapper[3]/datatable-body-row/div[2]/datatable-body-cell[1]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

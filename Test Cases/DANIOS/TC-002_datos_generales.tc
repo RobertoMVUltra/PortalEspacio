@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-002_datos_generales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8cf60a6-b3f9-48c7-b6bb-79fc5799a9a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04cb37c5-3b33-401d-ba60-dbb622ab1fd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e7caab6-936a-47eb-9d11-daaa4c79b237</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'074'</defaultValue>
+      <description></description>
+      <id>04cb37c5-3b33-401d-ba60-dbb622ab1fd5</id>
+      <masked>false</masked>
+      <name>oficina</name>
+   </variable>
+   <variable>
+      <defaultValue>'SEGURO HOGAR BANORTE'</defaultValue>
+      <description></description>
+      <id>2e7caab6-936a-47eb-9d11-daaa4c79b237</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+</TestCaseEntity>

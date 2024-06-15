@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "7711FCCBD5497B50FBD8B0FACE66F3E9",
+  "keywordClasses": [
+    {
+      "name": "GuardarDatosExcel",
+      "keywordMethods": [
+        {
+          "name": "agregarPoliza",
+          "parameters": [
+            {
+              "name": "cotizacion",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "poliza",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

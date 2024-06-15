@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wrapper_FormaPago</name>
+   <tag></tag>
+   <elementGuidId>e8fe7ad6-c4c9-4698-a929-76ce4863f9dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content_wrapper&quot;]/div/div[2]/form-sb-wizard/div/div[2]/sb-wizard-step[2]/div/section/app-cotizacion/div/app-sb-tabla-coberturas/tabset/div/tab/div[2]/div[1]/sb-tabla-opciones-pago/ngx-datatable/div/datatable-body/datatable-selection/datatable-scroller/datatable-row-wrapper[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

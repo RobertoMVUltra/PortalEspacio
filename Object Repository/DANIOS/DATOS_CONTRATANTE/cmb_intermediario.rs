@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cmb_intermediario</name>
+   <tag></tag>
+   <elementGuidId>5125abf6-d852-40f3-9677-7224f2a65640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '7487710' or . = '7487710') and @ref_element = 'Object Repository/ESPACIO/Page_Portal Tradicional/iframe_InicioCotizacin y EmisinIndividualAu_a0ceff']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@name=&quot;intermediario&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-alineacion > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e44a450d-e306-4c31-9f41-2e56c7114a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7487710</value>
+      <webElementGuid>614ab703-bba5-4357-a15a-07e5f6797ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-4&quot;)/app-alertas[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-dialog-content&quot;]/div[@class=&quot;text-alineacion&quot;]/span[1]</value>
+      <webElementGuid>ff9dc36c-caad-4d85-b432-77c6e9f00092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPACIO/GLOBALES/iframe</value>
+      <webElementGuid>97e9bfb4-865c-4491-a31d-440c1168c7a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-4']/app-alertas/div[2]/div/span</value>
+      <webElementGuid>8c0c2ba2-1b73-402f-a84f-a63f156e2657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e413e7b-2339-4fd6-ad5c-9585b92401b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alertas/div[2]/div/span</value>
+      <webElementGuid>a597d5ea-bb82-4119-acce-8d0b7bf5b80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '7487710' or . = '7487710')]</value>
+      <webElementGuid>c956a6d7-f9d0-4e57-ab6c-925c835191cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
