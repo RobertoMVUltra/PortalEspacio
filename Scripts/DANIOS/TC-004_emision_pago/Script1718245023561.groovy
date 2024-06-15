@@ -90,7 +90,7 @@ WebUI.delay(3)
 
 String numPoliza = WebUI.getText(findTestObject('Object Repository/DANIOS/EMISION_PAGO/Conducto_pago/span_NumPoliza'))
 
-println(numPoliza)
+println(numPolizaNUm)
 
 CustomKeywords.'GuardarDatosExcel.agregarPoliza'(GlobalVariable.NUM_COTIZ, numPoliza)
 
@@ -123,3 +123,4 @@ WebUI.scrollToElement(findTestObject('Object Repository/DANIOS/EMISION_PAGO/Cond
 WebUI.click(findTestObject('Object Repository/DANIOS/EMISION_PAGO/Conducto_pago/btn_EnviarDocumentos'))
 
 WebUI.click(findTestObject)
+WebUI.closeBrowser()
