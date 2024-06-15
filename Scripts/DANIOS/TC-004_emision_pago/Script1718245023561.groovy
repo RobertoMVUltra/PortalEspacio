@@ -122,3 +122,4 @@ WebUI.scrollToElement(findTestObject('Object Repository/DANIOS/EMISION_PAGO/Cond
 
 WebUI.click(findTestObject('Object Repository/DANIOS/EMISION_PAGO/Conducto_pago/btn_EnviarDocumentos'))
 
+WebUI.click(findTestObject)
